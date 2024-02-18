@@ -11,6 +11,9 @@ MySQL is used for database feasibility. For proper documentation purpose swagger
 ### Wishlist endpoints
 ![wishlist_endpoints](https://github.com/kiranchandusaragadam/Wishlist_Management_System/assets/110031953/1a3ac6d8-deb0-4364-ab2b-da1934393f73)
 
+### Documentation - Swagger - UI
+http://localhost:8080/swagger-ui/index.html
+
 ## Tech - stack
 - Programming Language: Java
 - Framework: Spring Boot 3, spring security 6
